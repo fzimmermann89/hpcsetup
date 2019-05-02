@@ -2,3 +2,7 @@
 [http]
 [http]
 	proxy = socks5h://127.0.0.1:12345
+[socks]
+	proxy = localhost:12345
+[core]
+	gitproxy = git-proxy
