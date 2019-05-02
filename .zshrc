@@ -12,6 +12,7 @@ export LD_LIBRARY_PATH="$local/lib:$LD_LIBRARY_PATH"
 export CFLAGS="-I$local/include"
 export CPPFLAGS="-I$local/include" LDFLAGS="-L$local/lib"
 export GITPERLLIB="$local/share/perl5"
+export MANPATH="$local/share/man:$MANPAT"H
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
