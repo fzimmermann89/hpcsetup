@@ -1,0 +1,4 @@
+[http]
+	sslVerify = true
+	sslCAPath = /home/gorkhover/local/ssl/cacert.pem
+	sslCAInfo = /home/gorkhover/local/ssl/cacert.pem

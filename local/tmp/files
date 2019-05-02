@@ -1,0 +1,14 @@
+bin/tmp/git-cvsserver
+bin/git-cvsserver
+libexec/git-core/git-cvsimport
+libexec/git-core/git-cvsexportcommit
+libexec/git-core/git-archimport
+libexec/git-core/git-cvsserver
+libexec/git-core/git-svn
+libexec/git-core/git-request-pull
+libexec/git-core/git-add--interactive
+libexec/git-core/git-send-email
+libexec/git-core/git-instaweb
+share/git-core/templates/hooks/prepare-commit-msg.sample
+share/git-core/templates/hooks/pre-rebase.sample
+share/gitweb/gitweb.cgi

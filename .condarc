@@ -1,0 +1,11 @@
+channels:
+  - defaults
+# Show channel URLs when displaying what is going to be downloaded and
+# in 'conda list'. The default is False.
+show_channel_urls: true
+allow_other_channels: true
+proxy_servers:
+  http: socks5://127.0.0.1:12345
+  https: socks5://127.0.0.1:12345
+ssl_verify: false
+auto_activate_base: false

@@ -1,0 +1,5 @@
+bin/git
+bin/git-shell
+bin/git-upload-archive
+bin/git-receive-pack
+bin/git-upload-pack

@@ -1,0 +1,6 @@
+git config
+http.sslcapath=/home/gorkhover/local/ssl/cacert.pem
+http.sslcainfo=/home/gorkhover/local/ssl/cacert.pem
+http.proxy=socks5h://127.0.0.1:12345
+
+

@@ -1,0 +1,12 @@
+git-core/git-remote-testsvn
+git-core/git-credential-cache--daemon
+git-core/git
+git-core/git-shell
+git-core/git-http-fetch
+git-core/git-credential-store
+git-core/git-http-backend
+git-core/git-fast-import
+git-core/git-imap-send
+git-core/git-daemon
+git-core/git-http-push
+git-core/git-remote-http

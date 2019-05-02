@@ -1,0 +1,12 @@
+libexec/git-core/git-remote-testsvn
+libexec/git-core/git-credential-cache--daemon
+libexec/git-core/git
+libexec/git-core/git-shell
+libexec/git-core/git-http-fetch
+libexec/git-core/git-credential-store
+libexec/git-core/git-http-backend
+libexec/git-core/git-fast-import
+libexec/git-core/git-imap-send
+libexec/git-core/git-daemon
+libexec/git-core/git-http-push
+libexec/git-core/git-remote-http
