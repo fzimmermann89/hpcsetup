@@ -19,3 +19,4 @@ done < <(grep -al "$BINPLACEHOLDER" -r local/ )
 cp -rP local/* $DEST
 cp -P .* $HOME
 cp -rPp .oh-my-zsh $HOME
+cp -r .proxychains $HOME
